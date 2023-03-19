@@ -1,0 +1,63 @@
+* {
+  margin: 0%;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -noz-osx-font-smoothing: grayscale;
+}
+
+body {
+  text-align: center;
+  padding-top: 275px;
+  background-image: url(https://i.ibb.co/ckyhWfV/background-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+
+  height: 100vh;
+  font-family: 'Spectral', serif;
+}
+
+h1 {
+  font-family: 'Beth Ellen', cursive;
+  color: #EBF1FB;
+  font-weight: 400;
+  font-size: 64px;
+  line-height: 120px;
+}
+
+h1 span {
+  color: #5EEAD4;
+}
+
+p {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  color: #EBF1FB;
+  
+  margin-bottom: 72px;
+  padding-top: 34px;
+}
+
+a{
+  padding: 16px 32px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 24px;
+  color: #EBF1FB;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+  color: black;
+  background-color: #5EEAD4;
+  border-radius: 8px;
+}
+
+.receitas {
+  text-decoration: none;
+  color: black;
+  background-color: #5EEAD4;
+  border-radius: 8px;
+}
